@@ -1,0 +1,112 @@
+
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "../../src/assets/images/frontend.jpg",
+        "title": "Front-End",
+        "description": "Frontend development involves creating the user interface and experience of a website using languages like HTML, CSS, and JavaScript."
+      },
+      {
+        "id": "2",
+        "src": "../../src/assets/images/backend.jpg",
+        "title": "Back-End",
+        "description": " Backend development handles the server-side logic and database management using languages like Python, JavaScript (Node.js),Java, or PHP, along with databases like MySQL, PostgreSQL, or MongoDB."
+      }
+    ],
+
+    "Tech": [
+      {
+        "id": "1",
+        "src": "../../src/assets/images/html.png",
+        "title": "HTML5"
+      },
+      {
+        "id": "2",
+        "src": "../../src/assets/images/css.png",
+        "title": "CSS3"
+      },
+      {
+        "id": "3",
+        "src": "../../src/assets/images/js.png",
+        "title": "JavaScript"
+      },
+      {
+        "id": "4",
+        "src": "../../src/assets/images/bootstrap.png",
+        "title": "Bootstrap"
+      },
+      {
+        "id": "5",
+        "src": "../../src/assets/images/react.png",
+        "title": "React"
+      },
+      {
+        "id": "6",
+        "src": "../../src/assets/images/spring.jpeg",
+        "title": "SpringBoot"
+      },
+      {
+        "id": "7",
+        "src": "../../src/assets/images/stco.png",
+        "title": "Styled Components"
+      },{
+        "id": "8",
+        "src": "../../src/assets/images/git.png",
+        "title": "Git"
+      },{
+        "id": "9",
+        "src": "../../src/assets/images/github.png",
+        "title": "GitHub"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "../../src/assets/images/emergency.jpeg",
+        "title": "Emergency Service Platfrom",
+        "description": "An emergency service platform is a digital system designed to efficiently manage and respond to emergency situations.It serves as a centralised hub that connects various emergency services, responders, and the public to ensure a quick and coordinated response during critical incidents. Any Public People can identify Location of Incident of emergency.",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "../../src/assets/images/expense.jpg",
+        "title": "Personal Expense Tracker",
+        "description": "A personal expense tracker is a handy tool, typically an app or software, that helps individuals monitor and categorize their spending habits. It allows users to track expenses, set budgets, and gain insights into their financial behavior.",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "../../src/assets/images/studio.png",
+        "title": "Studio-K Web",
+        "description": "Our studio website is crafted with HTML, styled with CSS for a polished look, and enhanced with JavaScript for dynamic interactions. With PHP, we power seamless functionalities like contact forms and client management systems, ensuring a smooth and engaging experience for visitors. ",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Dianne Russel",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kathryn Murphy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
